@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 # C extensions
 *.so
+api_keys.py
 pyc
 # Distribution / packaging
 .Python
